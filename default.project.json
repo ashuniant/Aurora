@@ -1,0 +1,12 @@
+{
+  "name": "Aurora",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "Aurora": {
+        "$path": "src"
+      }
+    }
+  }
+}
